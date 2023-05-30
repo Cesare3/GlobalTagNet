@@ -1,0 +1,8 @@
+dgl==0.9.1
+numpy==1.23.4
+omegaconf==2.2.3
+pytorch_lightning==1.8.0.post1
+rich==13.3.2
+torch==1.12.1
+torchmetrics==0.10.2
+transformers==4.24.0

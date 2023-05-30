@@ -1,0 +1,7 @@
+dataset_name: full_connected_label_graph
+node_data:
+- file_name: nodes.csv
+  ntype: item
+edge_data:
+- file_name: edges.csv
+  etype: [item, edge, item]
